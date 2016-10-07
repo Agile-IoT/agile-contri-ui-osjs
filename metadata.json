@@ -1,0 +1,11 @@
+{
+  "className":  "AppAgileNodeRedContribUI",
+  "name":       "UI",
+  "description":"Agile NodeRed Contrib-ui",
+  "mime":       null,
+  "category":   "development",
+  "icon": "",
+  "preload":    [
+    {"src": "main.js", "type": "javascript"}
+  ]
+}
