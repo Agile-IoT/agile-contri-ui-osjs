@@ -1,6 +1,6 @@
 {
   "className":  "AppAgileNodeRedContribUI",
-  "name":       "UI",
+  "name":       "Dashboard 2",
   "description":"Agile NodeRed Contrib-ui",
   "mime":       null,
   "category":   "development",
